@@ -20,13 +20,13 @@
  Gdy w trakcie gry gracz użyje klawisza <kbd>ESC</kbd>  pojawia się ekran `PAUSE`. Mamy wówczas do wyboru opcje: kontynuj grę lub wróć do `MENU`.
 
 
- # Prawa autorskie
+# Prawa autorskie
  Wszystki pliki graficzne zostały przygotowane przeze mnie.
  Pliki dźwiękowe zostały pobrane ze strony http://soundbible.com/ , w oparciu o licencję CC BY 3.0
  
  
  
- # Flappy Bird
+# Flappy Bird
   Implementation of the game  **Flappy Bird** in  *Python* using by *Pygame* package.
   
 # User manual
