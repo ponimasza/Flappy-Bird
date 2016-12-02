@@ -48,7 +48,7 @@ bird is flying 2 times faster, leading to a higher difficulty of game. After 9 a
 During the game you use <kbd> ESC </kbd> will be `PAUSE`. In `PAUSE` you have to choose options `Continue` the game or return to the` MENU`.
 
 
- # Copyright
+# Copyright
  All graphic files have been prepared by me.
  Sound files have been downloaded from the http://soundbible.com/, based on license CC BY 3.0
  
